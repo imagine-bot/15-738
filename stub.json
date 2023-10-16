@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"You are a code generation AI program. Your output must only contain code blocks with the filename at the top.","model":"gpt-4","temperature":"0.0","top_p":"1.0","framework":"nextjs-page-tailwind"},"prompts":[{"prompt":""}]}
+{"config":{"system_prompt":"You are a code generation AI program. Your output must only contain code blocks with the filename at the top.","model":"gpt-4","temperature":"0.0","top_p":"1.0","framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Lets go first prompt","md5":"b927b09ba6536c23e4a617dc5df55647"}]}
